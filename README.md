@@ -19,4 +19,4 @@ When I'm not coding, I prefer to unwind by watching movies and listening to musi
 ## Statistics
 
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saymekh&theme=gotham&hide_border=true)]
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saymekh&theme=gotham&hide_border=true)

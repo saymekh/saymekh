@@ -1,4 +1,4 @@
-![Banner](./assets/image/banner.jpeg)
+![Banner](https://images.unsplash.com/photo-1707903441379-136c36ad4282?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 
 ## About Me
@@ -11,8 +11,9 @@ When I'm not coding, I prefer to unwind by watching movies and listening to musi
 ## Skills
 
 
-HTML5 CSS3 JAVASCRIPT
-- Soft skills: Problem-solving, communication, Punctual
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
 ## Statistics
